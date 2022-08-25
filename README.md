@@ -8,4 +8,4 @@
 - 😄 Pronouns: I am a He/Him
 - ⚡ Fact about me: I wrote my first line of code in 2017, and I have been striving to be a better version of myself. 
 
-[![Glen's github stats](https://github-readme-stats.vercel.app/api?username=glenorock&show_icons=true&theme=radical)](https://github.com/glenorock/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glenorock&show_icons=true&theme=radical&layout=compact)](https://github.com/glenorock/github-readme-stats)
+<!-- [![Glen's github stats](https://github-readme-stats.vercel.app/api?username=glenorock&show_icons=true&theme=radical)](https://github.com/glenorock/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glenorock&show_icons=true&theme=radical&layout=compact)](https://github.com/glenorock/github-readme-stats) -->
